@@ -1,0 +1,9 @@
+**/builds/
+*/**/build
+*/**/builds
+*.bldcache
+*.aliases
+*.lvlps
+*.md5
+*.db
+
