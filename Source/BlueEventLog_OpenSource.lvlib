@@ -168,8 +168,8 @@
 		<Item Name="LogTypeSort.ctl" Type="VI" URL="../SubVIs/LogTypeSort.ctl"/>
 		<Item Name="LogUID_Map.ctl" Type="VI" URL="../SubVIs/LogUID_Map.ctl"/>
 		<Item Name="LogUID_Map_Data.ctl" Type="VI" URL="../SubVIs/LogUID_Map_Data.ctl"/>
-		<Item Name="RemoteFileLogger_queue.ctl" Type="VI" URL="../SubVIs/RemoteFileLogger_queue.ctl"/>
 		<Item Name="RemoteFileLogger_queue_2.ctl" Type="VI" URL="../SubVIs/RemoteFileLogger_queue_2.ctl"/>
+		<Item Name="RemoteFileLogger_queue_data.ctl" Type="VI" URL="../SubVIs/RemoteFileLogger_queue_data.ctl"/>
 		<Item Name="RemoteFileLogger_savelog.ctl" Type="VI" URL="../SubVIs/RemoteFileLogger_savelog.ctl"/>
 		<Item Name="RunLog action.ctl" Type="VI" URL="../SubVIs/RunLog action.ctl"/>
 		<Item Name="runlog init options.ctl" Type="VI" URL="../SubVIs/runlog init options.ctl"/>
