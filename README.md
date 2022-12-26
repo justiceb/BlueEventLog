@@ -106,9 +106,7 @@ Only the lossless \*.lvelog file supports loading.
 ### Design Decision #8: Elogger shall support polling of log files when loading
 Basically, this means that it's possible to open and load a \*.lvelog into the Elog UI even while the file is actively being written to by an Elogger somewhere.
 
-The Elog viewer will then poll the file for updates at 1hz.  If new log messages are found, then only the new log messages are read from file, and then added into the UI.
-
-As previously mentioned, ConsoleCore applications will soon run as Windows services.  This means that it will not be possible to view the ConsoleCore app Elog UIs.  HOWEVER!  With this design decision satisfied, It's still possible to open the \*.lvelog file directly and view it in an Elog viewer, and be able to see new log messages as they are streamed to disk.  #winning.
+The Elog viewer will then poll the file for updates at 1hz.  If new log messages are found, then only the new log messages are read from file, and then added into the UI.  This works across applications thanks to the magic of TDMS files, which we are using under the hood here.
 
 ---
 
