@@ -43,9 +43,9 @@ Here are currently supported examples (not the full list):
 
 ![image](https://user-images.githubusercontent.com/7429922/209488281-e00e7876-8afb-493a-b5c4-28e0a6d70814.png)
 
-Each log space represents a different organizational unit for logs.  For example, it probably doesn't make sense for console commands to be categorized into the same logspace as STM TCP connection logs.
+Each log space represents a different organizational unit for logs.
 
-Previously, all of our different logger types generated separate log files.  Now, with this new tool, all event logs should go to the same Elogger, but simply used a different logspace value to keep things nicely categorized.
+All event logs should go to the same Elogger, but simply used a different logspace value to keep things nicely categorized and easy to filter at the UI.
 
 ---
 
