@@ -1,6 +1,3 @@
-**/builds/
-*/**/build
-*/**/builds
 *.bldcache
 *.aliases
 *.lvlps
