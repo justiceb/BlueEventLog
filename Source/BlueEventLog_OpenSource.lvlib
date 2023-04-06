@@ -119,6 +119,7 @@
 		<Item Name="Strip variant shells.vi" Type="VI" URL="../SubVIs/Strip variant shells.vi"/>
 		<Item Name="Table DataType Format Specifier.vi" Type="VI" URL="../SubVIs/Table DataType Format Specifier.vi"/>
 		<Item Name="Table DataType.ctl" Type="VI" URL="../SubVIs/Table DataType.ctl"/>
+		<Item Name="TreeVariant write.vi" Type="VI" URL="../SubVIs/TreeVariant write.vi"/>
 		<Item Name="Truncate Logs.vi" Type="VI" URL="../SubVIs/Truncate Logs.vi"/>
 		<Item Name="UnEscape for TDMS Strategy_1.vi" Type="VI" URL="../SubVIs/UnEscape for TDMS Strategy_1.vi"/>
 		<Item Name="UnEscape for TDMS Strategy_2.vi" Type="VI" URL="../SubVIs/UnEscape for TDMS Strategy_2.vi"/>
@@ -180,6 +181,8 @@
 		<Item Name="runlog regs.ctl" Type="VI" URL="../SubVIs/runlog regs.ctl"/>
 		<Item Name="runlog v3 loop data.ctl" Type="VI" URL="../SubVIs/runlog v3 loop data.ctl"/>
 		<Item Name="StopLoadLogStreamOptions.ctl" Type="VI" URL="../SubVIs/StopLoadLogStreamOptions.ctl"/>
+		<Item Name="tree view display type.ctl" Type="VI" URL="../SubVIs/tree view display type.ctl"/>
+		<Item Name="TreeVariant loop data.ctl" Type="VI" URL="../SubVIs/TreeVariant loop data.ctl"/>
 		<Item Name="UpdateOptions.ctl" Type="VI" URL="../SubVIs/UpdateOptions.ctl"/>
 		<Item Name="Viewer Refs Wrapper.ctl" Type="VI" URL="../SubVIs/Viewer Refs Wrapper.ctl"/>
 		<Item Name="Viewer Refs.ctl" Type="VI" URL="../SubVIs/Viewer Refs.ctl"/>
